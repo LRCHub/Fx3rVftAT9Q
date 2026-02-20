@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "20 / HACHI 【Official MV】",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-20T07:08:31.239995Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "20 in a Chevy",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/01_20_in_a_Chevy_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Highway 20 Ride",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/02_Highway_20_Ride_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "20$ Skit",
+      "artist": "Freundeskreis",
+      "has_synced": false,
+      "path": "select/03_20$_Skit_Freundeskreis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "B.O.T.S. Radio (feat. I-20)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/04_B.O.T.S._Radio_(feat._I-20)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Move Bitch (feat. Mystikal & I-20)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/05_Move_Bitch_(feat._Mystikal_&_I-20)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Got (feat. Chingy, I-20 & Tity Boi)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/06_We_Got_(feat._Chingy,_I-20_&_Tity_Boi)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Web 20/20",
+      "artist": "The Roots feat. Peedi Peedi & Truck North",
+      "has_synced": true,
+      "path": "select/07_Web_20_20_The_Roots_feat._Peedi_Peedi_&_Truck_North.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Web 20\u000020 (Feat. Peedi Peedi & Truck North)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/08_Web_20\u000020_(Feat._Peedi_Peedi_&_Truck_North)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "20 Min",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/09_20_Min_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "20 Seconds To Comply",
+      "artist": "Silver Bullet",
+      "has_synced": false,
+      "path": "select/10_20_Seconds_To_Comply_Silver_Bullet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Early 20 Rager",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/11_Early_20_Rager_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "20 Dollar",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/12_20_Dollar_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "20,000 Leagues",
+      "artist": "Marine Girls",
+      "has_synced": false,
+      "path": "select/13_20,000_Leagues_Marine_Girls.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Philippians 3:20-21",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/14_Philippians_3_20-21_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Philippians 3:20-21",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/15_Philippians_3_20-21_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "40 y 20",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/16_40_y_20_José_José.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "20",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_20_HACHI.txt"
+    }
+  ]
+}
